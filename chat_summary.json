@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Great' button to be positioned on the app's interface?\", \"option1\": \"At the bottom of the screen\", \"option2\": \"Next to another specific button (please specify which one)\"}, {\"question 2\": \"What action should be triggered when the 'Great' button is pressed?\", \"option1\": \"Take the user to a new screen/page\", \"option2\": \"Display a message or perform a specific function (please specify)\"}], \"input_token_count\": 272, \"output_token_count\": 112, \"time_taken\": \"0:00:03.795621\"}",
         "timestamp": "20082024060945",
         "message_id": "guest20082024060937"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Include animated feedback when the button is pressed for a more interactive experience\", \"checked\": true}, {\"feature\": \"Add a hover effect on the button for desktop users to enhance usability\", \"checked\": true}, {\"feature\": \"Implement an undo action linked to the button for user convenience\", \"checked\": false}, {\"feature\": \"Incorporate accessibility features such as keyboard navigation and screen reader support for the button\", \"checked\": true}, {\"feature\": \"Add a loading state to the button for operations that require processing time, improving user feedback\", \"checked\": false}, {\"feature\": \"Integrate a tooltip on hover or focus that provides more information about what the 'Great' button does\", \"checked\": true}], \"input_token_count\": 226, \"output_token_count\": 151, \"time_taken\": \"0:00:05.202315\"}",
+        "timestamp": "20082024060946",
+        "message_id": "guest20082024060937"
     }
 ]
