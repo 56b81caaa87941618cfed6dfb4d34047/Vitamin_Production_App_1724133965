@@ -18,5 +18,11 @@
         "content": "Got it, adding a button with the text \"Great\".",
         "timestamp": "20082024060941",
         "message_id": "guest20082024060937"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Great' button to be positioned on the app's interface?\", \"option1\": \"At the bottom of the screen\", \"option2\": \"Next to another specific button (please specify which one)\"}, {\"question 2\": \"What action should be triggered when the 'Great' button is pressed?\", \"option1\": \"Take the user to a new screen/page\", \"option2\": \"Display a message or perform a specific function (please specify)\"}], \"input_token_count\": 272, \"output_token_count\": 112, \"time_taken\": \"0:00:03.795621\"}",
+        "timestamp": "20082024060945",
+        "message_id": "guest20082024060937"
     }
 ]
