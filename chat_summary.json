@@ -12,5 +12,11 @@
         "content": "add a button with text Great",
         "timestamp": "20082024060941",
         "message_id": "guest20082024060937"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, adding a button with the text \"Great\".",
+        "timestamp": "20082024060941",
+        "message_id": "guest20082024060937"
     }
 ]
